@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Project One</title>
+</head>
+<body>
+
+<h1 style="font-size:36pt; background-color:LightSlateGray;color:LightSalmon"> Project One
+<h2 style="font-size:20pt; background-color:LightSlateGray;color:LightSalmon">About Me</h2>
+<p style="font-size:14pt; background-color:White;color:DimGrey">This is one of my earliest projects utilizing p5.js.</p>
+
+</body>
+</html>
